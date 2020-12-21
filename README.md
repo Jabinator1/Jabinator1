@@ -1,1 +1,1 @@
-### Hey there, it's Josh Berube here!
+### Hello, I'm Josh Berube. A web developer.
